@@ -40,5 +40,5 @@ CI/CD stands for Continous integration and Continous delivery. This process help
 ![Image](http://learn.nextwork.org/surprised_maroon_fierce_chinese_gooseberry/uploads/aws-devops-cicd_ba6d42ae)
 
 ---
-## Here are linto day 1 where I setup web app in the cloud.
+## Here are link to day 1 where I setup web app in the cloud.
  - [7 days DevOps challenge day 1](https://github.com/lbrodziak/7-days-devops-day1)
